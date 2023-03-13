@@ -1,13 +1,13 @@
-### Hi everyone! 👋
+# Hi everyone! 👋
 
-About Me
+## About Me
 
 I'm a Full Stack Software Engineer looking to solve real world problems by using software. 
 
 
-#🎯 Projects 
+## 🎯 Projects 
 
-## HireJrDevs 
+### HireJrDevs 
 
 HireJrDevs is a job board focused on helping junior developers find jobs easily.
 
@@ -15,7 +15,7 @@ It's super difficult to find jobs for entry-level/junior devs which is why I dec
 
 I also have a HJD Discord community where people connect and help each other find junior dev jobs.
 
-
+[Hire Jr Devs Discord](https://discord.com/invite/gDEsWrem7r)
 
 
 Devbalt 
