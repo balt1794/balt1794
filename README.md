@@ -21,6 +21,7 @@ Pro Digital & Graphics Designer
 Proficient in translating designs and wireframes into high-quality code
 Conditional Leadership & proficient in leading & managing teams.
 B.Tech in Software Engineering.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 💻 Tech Stack
 
