@@ -53,10 +53,15 @@ Devbalt is my personal blog where I post about web development and other things 
 
 [Twitter](https://twitter.com/balt1794/)
 
+[Youtube](https://www.youtube.com/channel/UChZR16e1XwZXy2yrk_8ymFg)
+
 ## 📚 My Books & Courses 
 
 [Educative](https://www.educative.io/courses/django-takeoff-develop-modern-apps)
+
 [Amazon](https://www.amazon.com/Django-Takeoff-Quick-Learning-Development-ebook/dp/B08H4W2WLD/ref=sr_1_1?crid=RT7WJ3RBFA02&keywords=django+takeoff&qid=1678671921&sprefix=django+takeoff%2Caps%2C183&sr=8-1)
+
+
 
 
 
