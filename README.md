@@ -22,7 +22,7 @@ I also have a HJD Discord community where people connect and help each other fin
 
 ### Devbalt 
 
-Devbalt is my personal blog where I post about web development and other things that interest me usually technology related.
+Devbalt is my personal blog where I post about web development and other things that interest me usually technology related. The website has entire programming courses and single post tutorials about web development.  
 
 [Devbalt Website](https://www.devbalt.com)
 
@@ -38,6 +38,7 @@ Devbalt is my personal blog where I post about web development and other things 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## ⚙️ Other Tools
 
@@ -51,6 +52,12 @@ Devbalt is my personal blog where I post about web development and other things 
 [LinkedIn](https://www.linkedin.com/in/bryam-loaiza-a09b53126/)
 
 [Twitter](https://twitter.com/balt1794/)
+
+## 📚 My Books & Courses 
+
+[Educative](https://www.educative.io/courses/django-takeoff-develop-modern-apps)
+[Amazon](https://www.amazon.com/Django-Takeoff-Quick-Learning-Development-ebook/dp/B08H4W2WLD/ref=sr_1_1?crid=RT7WJ3RBFA02&keywords=django+takeoff&qid=1678671921&sprefix=django+takeoff%2Caps%2C183&sr=8-1)
+
 
 
 
