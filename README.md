@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💁‍♂️ About Me
+
+A Frontend Software Engineer
+Pro Digital & Graphics Designer
+Proficient in translating designs and wireframes into high-quality code
+Conditional Leadership & proficient in leading & managing teams.
+B.Tech in Software Engineering.
+
+💻 Tech Stack
+
+Language, Framework & Library
+
+Language | JavaScript Language | HTML5 Language | CSS3 Language | Python Framework & Library | React Framework & Library | Redux
+
+Tools
+
+Tools | Visual Studio Code Tools | Git Tools | GitHub Tools | npm Tools | Heroku Tools | MS Office
+
