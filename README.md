@@ -7,7 +7,7 @@ I'm a Full Stack Software Engineer looking to solve real world problems by using
 
 #🎯 Projects 
 
-##HireJrDevs 
+## HireJrDevs 
 
 HireJrDevs is a job board focused on helping junior developers find jobs easily.
 
