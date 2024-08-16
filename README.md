@@ -10,8 +10,11 @@ Some of the projects I have worked on:
 
 
 [HireJrDevs](https://www.hirejrdevs.com)
+
 [ResumeBoostAI](https://resumeboostai.com)
+
 [AltTextGeneratorAI](https://alttextgeneratorai.com)
+
 [PropertyListingsAI](https://propertylistingsai.com/)
 
 ### HireJrDevs 
